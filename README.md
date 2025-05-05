@@ -1,16 +1,33 @@
-## Hi there 👋
+### Hallo! 👋 Ich heiße Olga Grigorieva
 
-<!--
-**OlgaGrigorieva81/OlgaGrigorieva81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin eine angehende **Full Stack Web Developerin** und habe erfolgreich einen Kurs bei [CodeFactory Vienna](https://www.codefactory.wien/) abgeschlossen, wo ich moderne Webentwicklungstechnologien gelernt habe.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologien, mit denen ich gearbeitet habe:
+
+**Frontend:**  
+HTML5, CSS3, JavaScript, TypeScript, Bootstrap, Angular
+
+**Backend:**  
+PHP, Symfony, MySQL, API, AJAX
+
+---
+
+### 📈 GitHub-Statistiken
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlgaGrigorieva81&show_icons=true&theme=github_dark)
+
+---
+
+### 📫 Kontakt
+
+- E-Mail: ealocica@gmail.com
+
+---
+
+### 🎯 Ziel
+
+Ich möchte mich weiterhin als Webentwicklerin weiterentwickeln und spannende Projekte umsetzen, die Frontend- und Backend-Wissen verbinden.
+
+
